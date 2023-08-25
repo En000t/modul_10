@@ -70,3 +70,4 @@ if __name__ == "__main__":
     assert ab['Bill'].phones[0].value == '1234567890'
 
     print('All Ok')
+
